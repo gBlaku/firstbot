@@ -1,0 +1,2 @@
+# firstbot
+first discord bot
